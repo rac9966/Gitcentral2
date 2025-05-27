@@ -1,12 +1,12 @@
 package eclipsetocentral;
 
-public class AdditionLogic {
+public class SubstractionLogic {
 
 	public static void main(String[] args) 
 	{
-		int a = 20;
-		int b = 30;
-		int c = a+b;
+		int a = 10;
+		int b = 5;
+		int c = a-b;
 
 	}
 
